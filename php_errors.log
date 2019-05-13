@@ -1,0 +1,1 @@
+[13-May-2019 12:26:35 UTC] PHP Fatal error:  Cannot redeclare App\Providers\AppServiceProvider::boot() in F:\Dev\Indexcol\jose-silva_indexcol\app\Providers\AppServiceProvider.php on line 31
